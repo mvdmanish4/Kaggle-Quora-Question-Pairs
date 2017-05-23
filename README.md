@@ -1,2 +1,4 @@
 # Kaggle-Quora-Question-Pairs
-NLP based model to identify duplicate questions.
+
+Problem Statement: https://www.kaggle.com/c/quora-question-pairs
+Data Sets: https://www.kaggle.com/c/quora-question-pairs/data
